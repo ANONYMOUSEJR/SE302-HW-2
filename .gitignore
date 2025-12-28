@@ -1,0 +1,14 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+~$302_Homework02_220302287.docx
+$302_Homework02_220302287.docx
+SE302_Homework02.pdf
+package-lock.json
+SE302_Homework02_220302287.docx
